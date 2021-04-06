@@ -1,0 +1,13 @@
+body {
+    background-color: cadetblue;
+}
+.div1 {
+    border-style: double;
+    border-color: coral;
+    border-width: 5px;
+}
+.div2 {
+    border-style: groove;
+    border-color: darkred;
+    border-width: 8px;
+}
